@@ -1,7 +1,7 @@
 <h1 align="center">Eder Rogério Parolezi</h1>
 
 <p align="center">
-Engenheiro de Automação e Elétrica • Automação Industrial • Desenvolvimento de Sistemas
+Engenheiro de Controle e Automação • Desenvolvimento de Sistemas • Técnico Eletricista
 </p>
 
 
@@ -15,7 +15,7 @@ Engenheiro de Automação e Elétrica • Automação Industrial • Desenvolvim
 
 ## Sobre
 
-Engenheiro de Automação e Elétrica com mais de **5 anos de experiência em automação industrial**, atuando no desenvolvimento de sistemas, programação de máquinas e implementação de soluções para controle e otimização de processos industriais.
+Engenheiro de Controle e Automação com mais de **15 anos de experiência em automação industrial**, atuando no desenvolvimento de sistemas, programação de máquinas e implementação de soluções para controle e otimização de processos industriais.
 
 Atualmente cursando **Desenvolvimento de Sistemas pela ETEC**, ampliando conhecimentos em desenvolvimento de software e tecnologias web.
 
